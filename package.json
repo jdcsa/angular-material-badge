@@ -2,7 +2,7 @@
   "name": "angular-material-badge",
   "version": "1.2.9",
   "description": "Material Badge for AngularJS",
-  "main": "angular-material-badge.js",
+  "main": "angular-material-badge.min.js",
   "repository": "https://github.com/jmouriz/angular-material-badge",
   "author": "Juan Manuel <jmouriz@gmail.com>",
   "license": "MIT",
